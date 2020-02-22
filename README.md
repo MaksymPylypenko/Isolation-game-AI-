@@ -16,6 +16,5 @@
 * Heuristic evaluation.
 
 # Heuristic strategy
-When it is no longer possible to look further in the game tree, a SmartPlayer will evaluate the position based on the captured area and the number of invasions. Although the strategy is better than random, it will likely fail vs aggressive players.
-
+When it is no longer possible to look further in the game tree, a SmartPlayer will evaluate the position based on the captured area and the number of invasions. 
 ![heuristic](https://github.com/MaksymPylypenko/Isolation-game-AI-/blob/master/heuristic.png)
