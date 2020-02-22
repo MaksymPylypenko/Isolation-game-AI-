@@ -13,4 +13,4 @@
 * To play vs AI: `test.jar SmartPlayer`
 * To set custom board size `test.jar SmartPlayer 15,15`
 * To add more players `test.jar SmartPlayer SmartPlayer SmartPlayer`
-* To watch AI vs Random: `test.jar SmartPlayer A2Q1RandomPlayer`
+* To watch AI vs Random: `test.jar SmartPlayer RandomPlayer`
