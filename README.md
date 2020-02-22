@@ -8,4 +8,3 @@ Minmax + Alpha Beta pruning
 # How to run?
 * To play vs AI: `test.jar SmartPlayer`
 * To watch AI vs Random: `test.jar SmartPlayer A2Q1RandomPlayer`
-
